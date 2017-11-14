@@ -1,5 +1,5 @@
 /*!
- * Nuxt.js v1.0.0-rc11
+ * Nuxt.js v1.0.0-ul
  * Released under the MIT License.
  */
 'use strict';

@@ -1,6 +1,6 @@
 {
   "name": "nuxt-start",
-  "version": "1.0.0-rc11",
+  "version": "1.0.0-ul",
   "description": "runtime-only build for nuxt",
   "contributors": [
     {
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nuxt/nuxt.js"
+    "url": "git+https://github.com/haystacks/nuxt.js"
   },
   "files": [
     "bin",
